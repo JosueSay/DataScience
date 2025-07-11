@@ -21,7 +21,7 @@ Analizaron 35 modelos distintos y entrevistaron a expertos para validar su clasi
 - La taxonomía no solo sirve para académicos, sino también para que empresas puedan elegir mejor cómo manejar sus proyectos de ciencia de datos según sus necesidades reales.
 - Entre los hallazgos destaca que muchos modelos derivan de CRISP-DM, pero pocos definen entregables claros, roles específicos o herramientas prácticas, lo que limita su aplicabilidad. Solo un 14 % evidencian rigor científico, y menos del 10 % ofrecen usabilidad avanzada.
 
-## Expectativas de aprendizaje del curso
+### Expectativas de aprendizaje del curso
 
 - Quiero entender cómo aplicar modelos como redes LSTM o redes convolucionales para usarlo en análisis de comportamiento en redes sociales.
 - Me interesa mejorar en la parte de dashboards interactivos porque siento que a veces los datos que uno analiza se quedan en lo técnico, y no llegan a quienes toman decisiones. Me gustaría aprender a comunicar resultados de forma visual y clara.
